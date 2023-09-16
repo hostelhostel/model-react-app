@@ -6,7 +6,7 @@ import "../assests/new.css"
 //</div>style={q}
 function Head(){
 return (<div>
-    <h1 className="head" > Keeper </h1>
+    <h1 className="head" > Keeper note </h1>
   </div> )
 }
 export default Head;
