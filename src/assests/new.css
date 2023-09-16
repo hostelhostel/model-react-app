@@ -1,0 +1,21 @@
+
+.head{
+ 
+  height:auto;
+  background-color:yellow;
+  padding:15px 20px;
+  margin:0;
+  border:0;
+}
+.note {
+background-color:whitesmoke;
+width:20%;
+border-radius:10px;
+margin:20px;
+
+}
+.note *{
+border:0;
+margin:0;
+padding:20px 0px 20px 20px;
+}
